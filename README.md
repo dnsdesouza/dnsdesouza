@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnsdesouza
-- 👀 I’m interested in learn more about web develop
-- 🌱 I’m currently learning Java, javaScript, PHP, Pyton
+- 👀 I’m interested in learn more about Full Stack Develop
+- 🌱 I’m currently learning Java Spring Boot, javaScript, VueJS, Pyton
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me, send e-mail for dnsdesouza1@gmail.com
 
